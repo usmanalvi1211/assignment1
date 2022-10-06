@@ -12,3 +12,4 @@ function num(x,y){
 console.log(num(50,23))
 console.log(num(25,25))
 console.log(num(5,23))
+// kfjsakhf
