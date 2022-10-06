@@ -10,3 +10,5 @@ console.log(triple(12,40))
 console.log(triple(10,10))
 
 // sfhkjashkfh
+// new comment
+// new usman
