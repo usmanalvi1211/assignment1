@@ -11,3 +11,5 @@ console.log(triple(10,10))
  
 
 // this is mine personal changes
+// this is mine personal changes
+// this is mine personal changes
